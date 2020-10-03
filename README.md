@@ -42,6 +42,7 @@ an example:
 
 ## _Contributors :_
 
+- [Sakshi Jain](https://github.com/im-sakshijain)
 - [ilhamtaufiq](https://github.com/ilhamtaufiq)
 - [gipsi](https://github.com/gipsi)
 - [Tck13](https://github.com/tck13)
